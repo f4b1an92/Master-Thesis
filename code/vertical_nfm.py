@@ -27,7 +27,6 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', 300)
 pd.options.display.float_format = '{:,.4f}'.format
 
-#path = 'C:/Users/Fabian/Desktop/Studium/2.) HU Berlin/6.) SS_21/Master Thesis/Federated Learning for Credit Risk/Available Data Sets/1.) Home Credit Default Risk'
 input_path = main_path + '\\cleaned_datasets\\'
 model_path =  main_path + '\\models\\'
 result_path = main_path + '\\results\\Non-FL Results\\'
