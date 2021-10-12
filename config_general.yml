@@ -1,0 +1,7 @@
+
+random_state : 2021
+htrain_size : 0.7
+vtrain_size : 0.1
+n_splits : 3
+step_size : 0.0001
+max_evals : 20
